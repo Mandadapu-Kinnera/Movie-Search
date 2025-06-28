@@ -40,6 +40,10 @@ This project is built with:
 - Tailwind CSS
 
 
+## Application public link
+https://movie-search-kinnera.lovable.app/
+
+
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
